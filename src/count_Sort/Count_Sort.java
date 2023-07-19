@@ -33,7 +33,7 @@ public class Count_Sort {
 		{
 			try
 			{
-			count[array[i]]++;					// Incrementing the value in count array
+			count[array[i]]++;				// Incrementing the value in count array
 			}
 			catch(Exception e)
 			{
