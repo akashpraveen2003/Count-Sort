@@ -70,7 +70,7 @@ public class Count_Sort {
 			}
 			
 		}
-		count_sort(array,max);		// max-min+1 gives the size for count array
+		count_sort(array,max);		// max gives the size for count array
 
 	}
 }
